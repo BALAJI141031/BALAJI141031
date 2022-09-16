@@ -1,8 +1,8 @@
 ### FRONT END DEVELOPER 👋
 
 
-- 🔭 I’m currently working on ...SparkLibrary(videoLibrary clone) 
+- 🔭 SDE-1 ...Kenko-Health 
 - 🌱 I’m currently learning ...Redux,TypeScript
-- 💬 Ask me about ...Javascript,React.js
+- 💬 Ask me about ...Javascript,React.js,Nest.js
 - 📫 How to reach me: ... balajiab09@gmail.com
 -->
